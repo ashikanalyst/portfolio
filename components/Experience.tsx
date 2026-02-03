@@ -45,9 +45,9 @@ const Experience: React.FC = () => {
             
             <div className="space-y-8 mb-12">
               <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm">
-                <h4 className="text-lg font-bold text-slate-900">Bachelor of Science in Statistics</h4>
-                <p className="text-slate-600">University of Data Science</p>
-                <p className="text-slate-400 text-sm mt-1">2015 - 2019</p>
+                <h4 className="text-lg font-bold text-slate-900">Bachelor of Population Science and Human Resource Development</h4>
+                <p className="text-slate-600">University of Rajshahi</p>
+                <p className="text-slate-400 text-sm mt-1">2018 - 2023</p>
               </div>
             </div>
 

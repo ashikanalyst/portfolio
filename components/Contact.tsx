@@ -22,13 +22,13 @@ const Contact: React.FC = () => {
                 <div className="w-10 h-10 bg-brand-50 rounded-full flex items-center justify-center text-brand-600 mr-4">
                   <Mail className="w-5 h-5" />
                 </div>
-                <span>hello@analystportfolio.com</span>
+                <span>ashikngc@gmail.com</span>
               </div>
               <div className="flex items-center text-slate-700">
                  <div className="w-10 h-10 bg-brand-50 rounded-full flex items-center justify-center text-brand-600 mr-4">
                   <MapPin className="w-5 h-5" />
                 </div>
-                <span>San Francisco, CA (Remote Friendly)</span>
+                <span>Dhaka, Bangladesh (Remote Friendly)</span>
               </div>
             </div>
 
